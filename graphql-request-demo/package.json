@@ -1,0 +1,16 @@
+{
+  "name": "graphql-request-demo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^15.5.1",
+    "graphql-request": "^3.5.0"
+  }
+}
